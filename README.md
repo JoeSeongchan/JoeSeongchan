@@ -1,2 +1,4 @@
 #### Backend Developer 
-> Python, Java
+> Java, Spring, Spring Boot, MySQL, AWS EC2
+> Algorithm 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wordnumperiod)](https://solved.ac/wordnumperiod/)
