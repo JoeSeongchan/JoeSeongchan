@@ -42,3 +42,12 @@
   </div>
   <br>
 </div>
+
+<div align="center">
+  <br>
+  <div> ☀️ <b>STATUS</b> ☀️ </div>
+  <br>
+  <div>
+    <p><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wordnumperiod"></p>
+  </div>
+</div>
