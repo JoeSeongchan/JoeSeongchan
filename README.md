@@ -29,21 +29,6 @@
   <br>
   <br>
 </div>
-
-<div align="center">
-  <br>
-  <div> 📝 <b>EXPERIENCES</b> 📝 </div>
-  <br>
-  <div>
-    <ul style="list-style:none">
-      <li>중앙대학교 창의ICT공과대학 컴퓨터공학부 컴퓨터공학전문(심화이수) (2016.03 ~ 2023.02)</li>
-      <li>SSAFY(삼성 청년 SW 아카데미) 9th 자바 전공자반 (2023.01 ~ 2023.10)</li>
-      <li>Tridge Backend Developer (2023.11 ~ )</li>
-  </ul>
-  </div>
-  <br>
-</div>
-
 <div align="center">
   <br>
   <div> ☀️ <b>STATUS</b> ☀️ </div>
